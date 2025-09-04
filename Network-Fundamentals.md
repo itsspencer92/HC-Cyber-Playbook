@@ -1,8 +1,8 @@
 # star vs. mesh topology.
-- Mesh topology: requires that every end system is interconnected to every other system.
-- Star topology: 
+- Mesh topology: Each device is connected directly to multiple other devices.
+- Star topology: All devices are connected to a central hub.
 
 
 Key differences between switches and routers.
 - Switches is used to connect devices on the same network
-- Routers Requires 
+- Routers Connect two or more different networks 
