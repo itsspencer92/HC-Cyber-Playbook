@@ -4,5 +4,5 @@
 
 
 Key differences between switches and routers.
-- Switches
-- Routers 
+- Switches is used to connect devices on the same network
+- Routers Requires 
